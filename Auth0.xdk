@@ -5,7 +5,7 @@
       "projectTypeName": "com.intel.xdk.projecttype.jsapp",
       "src": "",
       "projectGuid": "2d78f5ed-2d0e-44e1-afdb-cbedad18d4be",
-      "lastModifiedDate": 1491886940877,
+      "lastModifiedDate": 1491897343719,
       "creationDate": 1491886908004
     },
     "testDirectory": "test",
@@ -70,7 +70,7 @@
           "deployment-target": "8.0",
           "ios-configuration": "adhoc"
         },
-        "isActive_": true,
+        "isActive_": false,
         "certificateId_": "",
         "appName_": "Auth0",
         "appID_": "not.yet.specified",
@@ -94,7 +94,7 @@
         "runtime_": "Cordova 3.x",
         "name_": "Windows8",
         "preferences_": {},
-        "isActive_": true,
+        "isActive_": false,
         "certificateId_": "",
         "appName_": "Auth0",
         "appID_": "not.yet.specified",
