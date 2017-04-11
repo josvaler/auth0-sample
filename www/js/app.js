@@ -9,7 +9,10 @@ document.addEventListener('deviceready',function() {
 
     $('.btn-login').click(function(e) {
       e.preventDefault();
-      lock.show(function(err, profile, token) {
+        //lock.show(function(err, profile, token) {
+        
+        // This is to avoid the blank page after Ok button
+        lock.show({sso: false},function(err, profile, token) {
         if (err) {
           // Error callback
           console.log("There was an error");
