@@ -1,15 +1,11 @@
 # Auth0 + Cordova + API Seed
 
-This is the seed project you need to use if you're going to create an app that will use Auth0, Cordova and an API that you're going to be developing. That API can be in any language.
+1. Create your AUTH0 account at https://auth0.com/
 
-## Running the example
+   Fill up all the required information and write down Domain & Client ID 
 
-In order to run the project, you need to have `node`, `cordova` and `ios-sim` installed.
-Once you have that, just clone the project and run the following:
+2. Change the file js/auth0-variables.js with the information you got in the previous step.
 
-1. `cordova platform add ios`
-1. `cordova build ios`
-1. `cordova emulate ios`
 
 Enjoy your Cordova app now :).
 
