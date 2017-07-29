@@ -1,4 +1,4 @@
-# Auth0 + Cordova + API Seed
+# Auth0 + Cordova + API Seed + Intel Framework
 
 1. Create your AUTH0 account at https://auth0.com/
 
